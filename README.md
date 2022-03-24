@@ -4,6 +4,7 @@
 
 
 
+
 # <span style="color:red; font-family: 'Bebas Neue';">IRUDIGI:Génération de Scanner synthétique à partir d'IRM et intelligence artificielle.</span>
 
 PING TSE Génération de Scanner synthétique à partir d'IRM et intelligence artificielle.
