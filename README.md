@@ -1,9 +1,6 @@
-# IRUDIGI-Scanner
 <img align="right" alt="coding" width="400" src="https://github.com/CourbotA/IRUDIGI-Scanner/blob/main/1519866329535.jpg">
 <img align="left" alt="coding" width="400" src="https://github.com/CourbotA/IRUDIGI-Scanner/blob/main/logo.svg">
-
-
-
+# IRUDIGI-Scanner
 
 # <span style="color:red; font-family: 'Bebas Neue';">IRUDIGI:Génération de Scanner synthétique à partir d'IRM et intelligence artificielle.</span>
 
