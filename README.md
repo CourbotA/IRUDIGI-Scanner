@@ -1,7 +1,7 @@
 # IRUDIGI-Scanner
-![Alt text](https://github.com/CourbotA/Naruto/blob/main/logo.svg)
-<img scr="https://github.com/CourbotA/Naruto/blob/main/logo.svg">
-<img scr="https://media-exp1.licdn.com/dms/image/C4D0BAQGyfJfaHbTA3w/company-logo_200_200/0/1519866329535?e=1655942400&v=beta&t=gc7lWRN1YDxMyBixx57JiX6Rzh4UU4Wn4fblIE0t1ns">
+<img align="right" alt="coding" width="400" src="https://github.com/CourbotA/IRUDIGI-Scanner/blob/main/1519866329535.jpg">
+<img align="left" alt="coding" width="400" src="https://github.com/CourbotA/IRUDIGI-Scanner/blob/main/logo.svg">
+
 
 
 # <span style="color:red; font-family: 'Bebas Neue';">IRUDIGI:Génération de Scanner synthétique à partir d'IRM et intelligence artificielle.</span>
