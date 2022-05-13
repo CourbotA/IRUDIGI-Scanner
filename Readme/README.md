@@ -18,3 +18,10 @@ Le but du projet est de parvenir à générer des images de Scanner à partir d'
 - SABIR Ilyass
 - LENFANT Timothée 
 
+##  <span style="color:blue">Introduction:</span>
+    MRI & CT are essential medical imagery techniques for diagnosis and cancer monitoring.
+    CT are essential for image guided radiation therapy planning but the patient is exposed to harmfull X-rays, as
+    MRI offers detailed information on soft tissues a style transfer from MRI to CT could be envisaged.
+    We will explore the GAN aproach in order to compute CTs from MRIs.
+
+    

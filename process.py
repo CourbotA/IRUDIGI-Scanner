@@ -1,6 +1,7 @@
 import os
 import numpy
 import pydicom 
+import cv2
 import matplotlib.pyplot as plt 
 
 PathDicom = "./CT+MR 1/"
@@ -12,11 +13,17 @@ for dirName, subdirList, fileList in os.walk(PathDicom):
         if ".dcm" in filename.lower():  # check whether the file's DICOM
             lstFilesDCM.append(os.path.join(dirName,filename))
             
-# Get ref file
+
 for elem in lstFilesDCM:
+    processedName = (elem.split("\\")[-1].removesuffix('.dcm'))
     medical_image = pydicom.read_file(elem)
     image = medical_image.pixel_array
-    medical_image.default_element_format
+    
     plt.imshow(image,cmap='gray')
-    print(medical_image.file_meta.MediaStorageSOPClassUID.name)
-
+    if "MR" in processedName:
+        plt.imsave('MR/'+processedName+'.png', image,cmap='gray')
+    else :
+        plt.imsave('CT/'+processedName+'.png', image,cmap='gray')
+   
+ 
+    
