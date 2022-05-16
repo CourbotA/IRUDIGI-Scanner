@@ -1,6 +1,6 @@
-<img align="right" width="48%" height="200" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
-<img align="left" width="48%" height="200"  alt="IRUDIGI"  src="https://limbus.ai/assets/img/distributors/irudigi_logo.png">\
 
+<img align="right" width="48%" height="200" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
+<img align="left" width="48%" height="200"  alt="IRUDIGI"  src="https://limbus.ai/assets/img/distributors/irudigi_logo.png"> Projet d'ingénierie
 
 # Génération de Scanner synthétique à partir d'IRM et intelligence artificielle
 
