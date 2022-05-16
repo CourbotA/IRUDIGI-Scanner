@@ -1,7 +1,5 @@
-<img style="float: right" width="100" height="100" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
-<img style="float: left" width="100" height="100"  alt="IRUDIGI"  src="https://limbus.ai/assets/img/distributors/irudigi_logo.png">
-
-</br>
+<img align="right" width="48%" height="200" alt="TSE"  src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg">
+<img align="left" width="48%" height="200"  alt="IRUDIGI"  src="https://limbus.ai/assets/img/distributors/irudigi_logo.png">\
 
 # Génération de Scanner synthétique à partir d'IRM et intelligence artificielle
 
