@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Light" src="https://www.ens.psl.eu/sites/default/files/inline-images/logo.jpg" width="45%">
+  <img alt="Light" src="" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://limbus.ai/assets/img/distributors/irudigi_logo.png" width="45%">
 </p>
