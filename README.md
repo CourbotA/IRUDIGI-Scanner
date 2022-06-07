@@ -1,7 +1,7 @@
 <p align="center">
-  <img alt="Light" src="" width="45%">
+  <img alt="TSE" src="https://www.telecom-st-etienne.fr/wp-content/themes/telecom/asset/images/logo.svg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://limbus.ai/assets/img/distributors/irudigi_logo.png" width="45%">
+  <img alt="IRUDIGI" src="https://limbus.ai/assets/img/distributors/irudigi_logo.png" width="45%">
 </p>
 
 
