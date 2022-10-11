@@ -28,10 +28,9 @@ Deep Learning afin d’identifier celles pouvant donner les meilleurs résultats
 ## Contributeurs(Par ordre alphabétique):
 - COURBOT Antoine
 - DE LAROCQUE LATOUR Enguerran
-- LENFANT Timothée
 - PALANCHE Félix
 - SABIR Ilyass
-- ZOUINE Safouane
+
 
 ## Introduction:
  - MRI & CT are essential medical imagery techniques for diagnosis and cancer monitoring.
